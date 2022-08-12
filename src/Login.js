@@ -20,7 +20,6 @@ function Login() {
 
   return (
     <div className="login">
-      <p1>Test Github firebase</p1>
       <div className="login__container">
         <input
           type="text"
